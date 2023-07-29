@@ -1,8 +1,8 @@
 # Flight-Price-Predictor
 - In a conda environment, used pandas and sklearn.RandomizedSearchCV to clean and train a RandomForestRegressor model of flight fares between 5 major cities in India for 11 major airlines.
 - Model accurately predicts flight fares with an r2 score of  0.801. 
-- Built accompany GUI using Flask which fully works.
-- I've also built the same GUI in React.
+- Built accompanying front & backend using Flask and Tailwind CSS which fully works.
+- I've also built the same frontend in React.
 ### Next Steps: integrating the React frontend with backend in Flask and training another model of US domestic flights
 
 ## To run the program: 
